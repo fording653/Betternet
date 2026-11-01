@@ -211,4 +211,4 @@ Betternet is available as a **complete free version** with all features and upda
 Start browsing securely and without restrictions today. **Download Betternet now!**
 
 ---
-**Last updated:** 2026-10-31 21:59:32 UTC
+**Last updated:** 2026-11-01 00:44:19 UTC
